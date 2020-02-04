@@ -1,0 +1,51 @@
+img {
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: 0 auto;
+}
+ul {
+    max-width: 550px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+    line-height: 1.6;
+}
+figcaption{
+  text-align: center;
+}
+h3 {
+    display: block;
+    font-size: 1.17em;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+h1 {
+    font-size: 4rem;
+    margin-bottom: 0;
+}
+p {
+  margin: 50px 0;
+    text-align: center;
+    display: block;
+    
+}
+#headline {
+    margin: 50px 0;
+    text-align: center;
+}
+li {
+    margin: 16px 0;
+}
+#title {
+    margin: 50px 0;
+    text-align: center;
+}
+
+body{
+  background-color: #96d4a2;
+  font-style: italic;
+  
+}
